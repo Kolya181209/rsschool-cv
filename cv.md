@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -7,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Victor Yanushkevich | rsschool-cv</title>
+
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Victor Yanushkevich" />
 <meta property="og:locale" content="en_US" />
@@ -16,13 +15,9 @@
 <meta property="og:site_name" content="rsschool-cv" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Victor Yanushkevich" />
-<script type="application/ld+json">
-{"url":"https://victoryanush.github.io/rsschool-cv/cv.html","@type":"WebPage","headline":"Victor Yanushkevich","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/rsschool-cv/assets/css/style.css?v=39a8dcd72283b9747a421fd034a577ae95fc6116">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
+   
 <!-- Setup Google Analytics -->
 
 
@@ -36,10 +31,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://victoryanush.github.io/rsschool-cv/">rsschool-cv</a></h1>
-      
-
-      <h1 id="victor-yanushkevich">Victor Yanushkevich</h1>
+    
 
 <h2 id="contacts">Contacts</h2>
 
