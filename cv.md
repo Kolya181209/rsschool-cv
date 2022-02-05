@@ -2,7 +2,7 @@
 ## Contact Info
 
 - Phone: +380662204755
-- GitHub: NRoman0608
+- GitHub: [NRoman0608](https://github.com/NRoman0608)
 - Discord: RNenchyn 
 ## Summary
 - I want to become a Front-End Developer
