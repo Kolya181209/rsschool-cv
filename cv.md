@@ -1,29 +1,31 @@
-Roman Nenchyn
-Contact Info
+# Roman Nenchyn
+## Contact Info
 
-Phone: +380662204755
-E-mail: nenchynroman@gmail.com
-GitHub: NRoman0608
-Discord: RNenchyn 
+- Phone: +380662204755
+- GitHub: NRoman0608
+- Discord: RNenchyn 
+## Summary
+- I want to become a Front-End Developer
 
-Summary
-I want to become a Front-End Developer
+## Skills
+- HTML, CSS
+- Git/GitHub
+- Photoshop, Figma
 
-Skills
-HTML, CSS
-Git/GitHub
-Photoshop, Figma
+## Code examples
 
-Code examples
-<script> document.write(Date()); 
+```
+<script>
+  document.write(Date()); 
 </script>
+```
 
-Experience
-I'm a beginner
+## Experience
+- I'm a beginner
 
-Education
-National Aerospace University «Kharkiv Aviation Institute»
+## Education
+- National Aerospace University «Kharkiv Aviation Institute»
 Information Systems
 
-Engish
-B2
+## Engish
+- B2
